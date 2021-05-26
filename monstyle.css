@@ -1,0 +1,109 @@
+.magetop {
+    margin-top: 100px;
+}
+
+.img {
+    border: solid 0px black;
+    width: 80px;
+    height: 80px;
+}
+
+.ni {
+    border: solid 2px red;
+    height: 250px;
+    width: 400px;
+    background-image: url('../images/ni.jpg');
+}
+
+#btn {
+    margin-top: 20px;
+}
+
+.ta {
+    width: 600px;
+    height: 250px;
+    border: solid 1px black;
+    margin-left: 200px;
+    background: whrite;
+}
+
+.vbb {
+    margin-left: 350px;
+    width: 250px;
+    height: 230px;
+    margin-top: -110px;
+}
+
+
+/*longuer du champ de recherche*/
+
+.f {
+    width: 920px;
+    padding: 10px;
+}
+
+
+/*bar de afficherstagiaire*/
+
+.po {
+    background: black;
+}
+
+.lp {
+    display: nove;
+}
+
+.pwd {
+    width: 350px;
+    padding: 12px;
+}
+
+.dat {
+    width: 450px;
+    padding: 10px;
+    font-style: italic;
+    font-size: 20px;
+}
+
+.logkk {
+    width: 450px;
+    padding: 10px;
+    top: 25px;
+}
+
+.pwdd {
+    top: 100px;
+}
+
+
+/*parti commande*/
+
+.p1 {
+    width: 900px;
+    height: 100px;
+}
+
+.p2 {
+    width: 900px;
+    height: 100px;
+    margin-top: 25px;
+}
+
+.p3 {
+    width: 900px;
+    height: 100px;
+    margin-top: 25px;
+}
+
+.long1,
+.long2,
+.long3 {
+    width: 250px;
+    padding: 10px;
+}
+
+.p1,
+.p2,
+.p3 {
+    margin-left: 110px;
+}
